@@ -1,15 +1,16 @@
-id: opecha:P000479
+id: P000479
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03678
   title: རྫོང་ཁའི་གཏམ་རྒྱུད་སྣ་ཚོགས་དཔེ་ཆ་གསུམ་པ་
-  volume:
+  author: ''
+  volumes:
     b3a3fdc546a94e39b3fb112b5138b1d4:
       image_group_id: I00KG03762
       title: Volume 1 of rdzong kha'i gtam rgyud sna tshogs dpe cha gsum pa
       volume_number: 1
       total_pages: 278
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྫོང་ཁའི་གཏམ་རྒྱུད་སྣ་ཚོགས་དཔེ་ཆ་གསུམ་པ་
   author: ''
